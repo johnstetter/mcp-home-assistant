@@ -1,10 +1,3 @@
-# MCP Home Assistant Server & Client
+# MCP Home Assistant
 
-...
-
-Let me know if you'd like:
-- A ZIP archive download
-- A push directly to your GitHub repo (`git@github.com:johnstetter/mcp-home-assistant.git`)
-- A walkthrough of any specific part (e.g., adding WebSocket support or OpenAPI spec for GPT tool calling)
-
-Ready when you are, boss.
+Server and client to expose Home Assistant context data to LLMs, agents, or other clients.
